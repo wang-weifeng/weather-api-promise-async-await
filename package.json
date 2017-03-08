@@ -1,0 +1,18 @@
+{
+  "name": "wether",
+  "version": "1.0.0",
+  "description": "This is a weather-api",
+  "main": "wether.js",
+  "dependencies": {
+    "log4js": "^1.1.1",
+    "pg": "^6.1.3",
+    "request": "^2.80.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangweifeng",
+  "license": "ISC"
+}

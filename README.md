@@ -4,7 +4,7 @@
 
 > * node7.6以上（因为可以直接用async-await）
 > * postgresql数据库
-> * 安装必要的模块npm install request log4js pg restify
+> * 安装必要的模块npm install
 > * node weather
 ## 功能用途
 1.当输入一个中国城市名存在，会根据所输入的城市名返回今天的这个城市的天气情况
